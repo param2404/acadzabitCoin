@@ -1,0 +1,12 @@
+.MuiAppBar-colorPrimary{
+    background-color: white !important;
+    color: black !important;
+}
+
+.c2 ,.MuiSelect-select:not([multiple]) option, .MuiSelect-select:not([multiple]) optgroup{
+    background-color: #D8779D !important;
+}
+
+.c1,.MuiSelect-select:not([multiple]) option, .MuiSelect-select:not([multiple]) optgroup {
+    background-color: #8C88CF !important;
+}
