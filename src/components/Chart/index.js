@@ -20,7 +20,7 @@ import {
 ReactFC.fcRoot(FusionCharts, Charts, Widgets, FusionTheme);
 
 const chartConfigs = {
-    type: 'realtimestackedarea',
+    type: 'realtimeline',
     renderAt: 'container',
     width: '80%',
     height: '400',
